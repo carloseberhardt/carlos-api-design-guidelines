@@ -1,4 +1,4 @@
-# carlos-api-design-guidlines
+# carlos-api-design-guidelines
 api design guidelines I try to adhere to...
 
 # The guidelines
